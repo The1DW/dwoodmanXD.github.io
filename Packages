@@ -5,7 +5,7 @@ Architecture: iphoneos-arm64
 Description: AdobianGreen
 Maintainer: dwoodmanxd
 Author: dwoodmanxd
-Section: Theme
+Section: Themes
 Depends: com.spark.snowboard
 Filename: debs/AdobianGreen.deb
 Size: 174874
