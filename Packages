@@ -6,7 +6,7 @@ Description: AdobianGreen
 Maintainer: dwoodmanxd
 Author: dwoodmanxd
 Section: Themes
-Depends: com.spark.snowboard
+Depends: 
 Filename: debs/AdobianGreen.deb
 Size: 174874
 MD5sum: 2a4704ef40287fba3a008e7e651b830f
