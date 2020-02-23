@@ -1,0 +1,14 @@
+Package: com.dwoodmanxd.adobiangreen
+Name: AdobianGreen
+Version: 1.0
+Architecture: iphoneos-arm64
+Description: AdobianGreen
+Maintainer: dwoodmanxd
+Author: dwoodmanxd
+Section: Theme
+Depends: com.spark.snowboard
+Filename: debs/AdobianGreen.deb
+Size: 174874
+MD5sum: 2a4704ef40287fba3a008e7e651b830f
+SHA1: 247ee75e9d87be4123a38478febf6df749dbac3b
+SHA256: 2829b85131ed6964a4024e1f6d9510d0a15bc85424ecf2847228df144f0c950d
