@@ -1,7 +1,7 @@
 Package: com.dwoodmanxd.adobiangreen
 Name: Adobian Green
 Version: 1.2
-Architecture: iphoneos-arm
+Architecture: iphoneos-arm64
 Description: Adobian Green
 Maintainer: dwoodmanxd
 Author: dwoodmanxd
