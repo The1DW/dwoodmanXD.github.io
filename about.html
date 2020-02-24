@@ -2,11 +2,14 @@
 <html>
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
 <style>
 * {
   box-sizing: border-box;
 }
 
+    h1,h2,h3,h4,h5,h6 {font-family: "Karma", sans-serif}
+    
     .fa-twitter {
         padding: 20px;
         width: 50px;
@@ -17,9 +20,9 @@
     
 /* Add a gray background color with some padding */
 body {
-  font-family: Arial;
+  font-family: Karma;
   padding: 20px;
-  background: #f1f1f1;
+  background: #A9A9A9;
 }
 
 /* Header/Blog Title */
@@ -86,9 +89,19 @@ body {
 
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
     
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Karma">
+    
+    <!-- Sidebar (hidden by default) -->
+<nav class="w3-sidebar w3-bar-block w3-card w3-top w3-xlarge w3-animate-left" style="display:none;z-index:2;width:40%;min-width:300px" id="mySidebar">
+  <a href="javascript:void(0)" onclick="w3_close()"
+  class="w3-bar-item w3-button">Close Menu</a>
+<a href="https://dwoodmanXD.github.io/about.html" class="w3-bar-item w3-button">About</a>
+</nav>
+    
 <div class="header">
   <h2>About Me</h2>
     <a href="https://dwoodmanXD.github.io/index.html" class="button">Back to Main</a>
+        <div class="w3-button w3-padding-16 w3-left" onclick="w3_open()">☰</div>
 </div>
 
 <div class="row">
@@ -116,5 +129,17 @@ body {
 <a href="https://dwoodmanXD.github.io/index.html" class="button">Back to Main</a>
 </div>
 
+    <script>
+// Script to open and close sidebar
+function w3_open() {
+  document.getElementById("mySidebar").style.display = "block";
+}
+ 
+function w3_close() {
+  document.getElementById("mySidebar").style.display = "none";
+}
+</script>
+
+    
 </body>
 </html>
