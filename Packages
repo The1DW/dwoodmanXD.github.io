@@ -1,14 +1,14 @@
 Package: com.dwoodmanxd.adobiangreen
-Name: AdobianGreen
-Version: 1.1
-Architecture: iphoneos-arm64
-Description: AdobianGreen
+Name: Adobian Green
+Version: 1.2
+Architecture: iphoneos-arm
+Description: Adobian Green
 Maintainer: dwoodmanxd
 Author: dwoodmanxd
 Section: Themes
 Depends: 
 Filename: debs/AdobianGreen.deb
 Size: 1403134
-MD5sum: 9042004812ee3bd6e871500c43520f16
-SHA1: 84924b0b85fbd3e9ebe9f2d1e3f6ba66d5bd29a3
-SHA256: 5278962dfe160e937102c6a54c9b1c0e49c8aed928623477eefc0f39aa1a4620
+MD5sum: f7122a5eb03b6c2f9cb53c1307065442
+SHA1: fb52f417743217c3919809953450ae085cfff5dd
+SHA256: 4e69967a19bf4e14f6c6db57517d2862d283b3436ed7a7d8ba1827a75e524b29
